@@ -16,4 +16,4 @@ With integrated development environment, V-REP is based on a distributed control
 Fig. 2 The structure of a ABB-IRB52 robot.
 
 ## Appendix - Testing Videos
-(1)Function Testing: https://reurl.cc/723AYd
+(1)Functional Testing: https://reurl.cc/723AYd
