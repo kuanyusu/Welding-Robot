@@ -17,6 +17,7 @@ Fig. 2 The structure of a ABB-IRB52 robot.
 
 ## Virtual Welding Demonstration
 Fig. 11 illustrates the user interfaces being used in our welding experiments. On the bottom we can find two light-gray colored metal plates intended to be welded up on the stitch line in between. On the top-right corner, there is a graph it will continuously monitor and display the proximity sensor readings (in meters). On the left of the graph is a button which is implemented to change the side of the metal plates. Anytime we want to weld up the other side of the plates we just need to press this button. On the bottom-right corner, we place a virtual camera near the welding torch to get a close-up view, as so an operator can clearly check by visual sense in addition to touch sense to grasp how to perform the welding job well.
+
 Fig.12 shows how a welding experiment is proceeding. The random yellow triangle shapes mimic the sparks, and the thick black line is the welding line.
 
 ## Appendix - Testing Videos
