@@ -10,7 +10,7 @@ Touch is a motorized device that applies force feedback on the user’s hand, al
 Fig. 1 Technical specifications for TOUCH.
 
 ## ABB-IRB52 Robot
-With integrated development environment, V-REP is based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS node, a remote API client, or a custom solution. This makes V-REP very versatile and ideal for multi-robot applications. Controllers can be written in C/C++, Python, Java, Lua, Matlab, Octave or Urbi.
+The body of ABB-IRB52 is composed of the base and other total 6 pieces of mechanical links, for which 5 revolute joints (J0-J4) are needed to inter-connect those links. A welding torch is held by an extra link (in light-gray color) and connected to the terminal link of the robot by an extra revolute joint (J5). A “flexible” power cable that composed of dozens of rigid bodies and revolute joints is installed between the robot body and the welding torch. 
 
 ![image](https://github.com/kuanyusu/Welding-Robot/blob/master/fig.2.jpg)
 Fig. 2 The structure of a ABB-IRB52 robot.
